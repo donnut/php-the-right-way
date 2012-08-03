@@ -1,24 +1,25 @@
-# Welcome
+# Welkom
 
-There's a lot of outdated information on the Web that leads new PHP users astray, propagating bad practices and bad
-code. This must stop. _PHP: The Right Way_ is an easy-to-read, quick reference for PHP best practices, accepted coding
-standards, and links to authoritative tutorials around the Web.
+Op het internet circuleert veel verouderde informatie waardoor nieuwe gebruikers van PHP kunnen verdwalen, slechte 
+gewoonten voorgeschoteld krijgen, wat uiteindelijk leidt tot ondermaatse code leidt. Hier moet een einde aan komen. 
+_PHP: The Right Way_ is een eenvoudig leesbare, snel toegankelijke referentie met daarin de beste PHP-toepassingswijze,
+geaccepteerde codeerstandaarden en verwijzingen naar erkende handleidingen op het internet.
 
-## Translations
+## Vertalingen
 
-_PHP: The Right Way_ is (or soon will be) translated into many different languages:
+_PHP: The Right Way_ is (of wordt binnenkort) vertaald in de volgende talen:
 
-* [English](http://www.phptherightway.com)
-* [Chinese](http://wulijun.github.com/php-the-right-way)
-* [Japanese](http://ja.phptherightway.com)
-* Portuguese (Coming Soon)
-* Russian (Coming Soon)
-* [Spanish](http://es.phptherightway.com)
-* Ukrainian (Coming Soon)
+* [Engels](http://www.phptherightway.com)
+* [Chinees](http://wulijun.github.com/php-the-right-way)
+* [Japans](http://ja.phptherightway.com)
+* Portuguees (Binnenkort beschikbaar)
+* Russisch (Binnenkort beschikbaar)
+* [Spaans](http://es.phptherightway.com)
+* Ukraieens (Binnenkort beschikbaar)
 
 ## Disclaimer
 
-_There is no canonical way to use PHP_. However, this website is a humble display of best practices,
+_Er bestaat geen canonieke gebruikswijze van PHP_. However, this website is a humble display of best practices,
 available options, and good information. It aims to introduce new PHP developers and to rethink seasoned pros with fresh
 ideas.
 
